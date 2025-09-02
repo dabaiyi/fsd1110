@@ -1,5 +1,7 @@
 # FSD 4.0
 
+## [中文文档说明](README_CN.md)
+
 ## History
 
 This repository is derived from the last known public copy of 
